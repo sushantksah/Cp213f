@@ -1,0 +1,31 @@
+"""
+-------------------------------------------------------
+testing.txt
+CP213 Documentation Lab Testing
+-------------------------------------------------------
+Author:  
+ID:      
+Email:   
+Version: 
+-------------------------------------------------------
+"""
+Testing T01:
+Enter integers to add up, (enter 'q' to quit): 
+Enter a number: 3
+Enter a number: 3
+Enter a number: 3
+Enter a number: 3
+Enter a number: 2
+Enter a number: 1
+Enter a number: t
+'t' is not an integer or 'q'.
+Enter a number: 1
+Enter a number: q
+Total: 16
+----------------------------------------
+Lines: 101
+----------------------------------------
+Tokens: 397
+----------------------------------------
+Words: 6
+----------------------------------------
