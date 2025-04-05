@@ -1,0 +1,5 @@
+*.java linguist-language=java
+
+docs/** linguist-documentation
+*.html linguist-documentation
+*.xml linguist-documentation
